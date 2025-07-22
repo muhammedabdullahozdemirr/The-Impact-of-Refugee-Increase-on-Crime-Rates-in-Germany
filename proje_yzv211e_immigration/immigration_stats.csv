@@ -1,0 +1,26 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,freq,Time frequency,citizen,Country of citizenship,agedef,Age definition,age,Age class,unit,Unit of measure,sex,Sex,geo,Geopolitical entity (reporting),TIME_PERIOD,Time,OBS_VALUE,Observation value,OBS_FLAG,Observation status (Flag)
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,1998,,802456,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,1999,,874023,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2000,,841158,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2001,,879217,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2002,,842543,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2003,,768975,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2004,,780175,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2005,,707352,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2006,,661855,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2007,,680766,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2008,,682146,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2009,,346216,,b,break in time series
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2010,,404055,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2011,,489422,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2012,,592175,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2013,,692713,,,
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2014,,866757,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2015,,1549937,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2016,,1046171,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2017,,866541,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2018,,825736,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2019,,804821,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2020,,642399,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2021,,775946,,e,estimated
+dataflow,ESTAT:MIGR_IMM1CTZ(1.0),"Immigration by age group, sex and citizenship",A,Annual,TOTAL,Total,REACH,Age reached during the year,TOTAL,Total,NR,Number,T,Total,DE,Germany,2022,,1943445,,e,estimated
